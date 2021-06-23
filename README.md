@@ -40,4 +40,5 @@
     <li>Run <code>dotnet ef migrations add {migration name}</code></li>
     <li>Run <code>dotnet ef database update</code></li>
     <li>Run <code>dotnet run</code></li>
+    <li>Run <code>Redis</code></li>
 </ol>
