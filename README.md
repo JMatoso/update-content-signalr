@@ -49,7 +49,7 @@
     <li>Run <code>dotnet ef migrations add {migration name}</code></li>
     <li>Run <code>dotnet ef database update</code></li>
     <li>Run <code>Redis</code> (if you're not using docker)</li>
-    <li>Run <code>dotnet run</code></li>
     <li>Install <a href="https://hub.docker.com/_/redis" target="_blank">Redis Docker image</a> typing <code>docker pull redis</code> (if you are using Docker)</li>
     <li>Run Redis container typing <code>docker run --name some-redis -d redis redis-server --appendonly yes</code></li>
+    <li>Run <code>dotnet run</code></li>
 </ol>
