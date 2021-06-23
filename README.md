@@ -7,6 +7,7 @@
 <ul>
     <li>.NET 5.0+</li>
     <li>VS Code</li>
+    <li>Redis</li>
 </ul>
 
 <h2>How to Run</h2>
